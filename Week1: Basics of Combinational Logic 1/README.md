@@ -32,4 +32,5 @@ iverilog -o logic_sim *.v *_tb.v
 vvp logic_sim
 
 gtkwave *.vcd
+
 (* - rtl_design filename)
