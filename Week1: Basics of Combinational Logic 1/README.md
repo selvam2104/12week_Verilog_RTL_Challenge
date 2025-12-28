@@ -1,4 +1,4 @@
-# Week 01 – Basic Logic Gates
+# Week 01 – Basic Combinational Logic 1
 
 ## Modules Implemented
 - AND Gate
