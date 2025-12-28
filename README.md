@@ -20,6 +20,7 @@ This repository documents my **12-week structured RTL Design challenge** using *
 
 ## Weekly Breakdown
 | Week | Topic |
+
 | Week 1 | Basics of Combinational Logic |
 
 ## Author
