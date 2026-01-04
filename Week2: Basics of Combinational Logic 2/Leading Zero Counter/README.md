@@ -6,8 +6,8 @@ A leading zero counter is a priority encoder starting from the MSB, used to dete
 This design models the hardware priority logic used in LZC blocks without relying on reduction operators.
 
 ## Files:
-- 'lead_zero_count.v': RTL design
-- 'lead_zero_count_tb.v': Self-checking testbench
+- 'lead_zero_counter.v': RTL design
+- 'lead_zero_counter_tb.v': Self-checking testbench
 - 'lead_zero_count_vcd.png': Simulation waveform
 
 ## Simulation:
