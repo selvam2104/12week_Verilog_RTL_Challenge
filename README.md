@@ -22,6 +22,7 @@ This repository documents my **12-week structured RTL Design challenge** using *
 | Week | Topic |
 
 | Week 1 | Basics of Combinational Logic 1 |
+
 | Week 2 | Basics of Combinational Logic 2 |
 
 ## Author
